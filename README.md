@@ -2,7 +2,8 @@
 
 ## 의존성
 
-![blog](https://postfiles.pstatic.net/MjAyMDA4MjBfMTM5/MDAxNTk3ODgzNDIyMDYz.wZ5P4Ig9VYkJJLswXvdtkqY22qzxXBQjxrFGCIxQ33kg.X-uXGvkC2bYaAvyVxhxjPQsj61XGB1fa9iZ8UcQPRigg.PNG.getinthere/Screenshot_42.png?type=w773)
+![image](https://user-images.githubusercontent.com/62128942/90703499-e9149c00-e2c8-11ea-9d54-26b5014264ca.png)
+![image](https://user-images.githubusercontent.com/62128942/90703489-e3b75180-e2c8-11ea-95ae-d60e6fd6da9d.png)
 
 ## MySQL 세팅
 
@@ -22,7 +23,7 @@ init_connect='SET collation_connection = utf8_general_ci'
 character-set-server=utf8
 ```
 
-2. MySQL 데이터베이스 및 사용자 생성
+2. MySQL 데이터 베이스 및 사용자 생성
 
 - create user 'insta'@'%' identified by 'bitc5600';
 - GRANT ALL PRIVILEGES ON 별.별 TO 'insta'@'%';
@@ -71,5 +72,5 @@ cos:
   secret: 겟인데어
 
 file:
-  path: C:/src/jwtoauthwork/instagram/src/main/resources/upload/
+  path: C:/src/jwtoauthreact/instagram/src/main/resources/upload/
 ```
